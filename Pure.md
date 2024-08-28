@@ -1,6 +1,6 @@
 # Synergy/Pure Storage Logical Network
 
-![Logical](Synergy%20Top-Level.svg)
+![Logical](/images/diagram.svg)
 
 # HostName / IP Addressing
 
